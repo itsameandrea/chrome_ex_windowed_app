@@ -5,7 +5,7 @@ This extension boilerplate will allow you to run any website as a Chrome Extensi
 To Set up your own extension follow the steps below
 ======
 
-1. Clone this repo on your device (I have it in my linux distro)
+1. Clone this repo on your device (I have it in my linux container)
 1. Open view.html and replace ##YOUR_WEBSITE_NAME## with the name of the website you want to window
 2. Open background.js and replace ##ADD_YOUR_URL_HERE## with the url of the website you want to window
 3. Open manifest.json and replace ##YOUR_WEBSITE_NAME## and ##YOUR_WEBSITE_DESCRIPTION## with the name and description of the website you want to window
