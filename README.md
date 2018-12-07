@@ -13,3 +13,5 @@ To Set up your own extension follow the steps below
 5. Go to chrome://extensions and enable Developer mode
 6. Click on Load Unpacked and select the app folder within this repo
 7. Enjoy your windowed app
+
+Props to @hashtag-include who wrote the code for this repo for his Slacky chrome extension
