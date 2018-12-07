@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "##YOUR_WEBSITE_NAME##",
+  "author": "ilrock",
+  "version": "1.0",
+  "minimum_chrome_version": "23",
+  "description": "##YOUR_WEBSITE_DESCRIPTION##",
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  },
+  "app": {
+    "background": {
+      "scripts": [
+        "background.js"
+      ]
+    }
+  },
+  "permissions": [
+    "webview",
+    "notifications"
+  ]
+}
